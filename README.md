@@ -1,4 +1,4 @@
-# Download ALL apple developer videos
+# Download all apple developer videos
 
 ## source:
 https://developer.apple.com/videos/all-videos/
