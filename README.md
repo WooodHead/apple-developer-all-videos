@@ -13,11 +13,11 @@ git clone git@github.com:WooodHead/apple-developer-all-videos.git
 
 cd apple-developer-all-videos
 
-wget -P hd -i "hd_urls.md"
+wget -P hd -i "hd_urls.txt"
 
-wget -P sd -i "sd_urls.md"
+wget -P sd -i "sd_urls.txt"
 
-wget -P pdf -i "pdf_urls.md"
+wget -P pdf -i "pdf_urls.txt"
 
 ```
 
